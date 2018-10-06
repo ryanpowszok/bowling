@@ -8,6 +8,11 @@ project/                  # → Root folder for the project.
 ├── .eslintrc             # → Config file for eslint rules.
 ├── .gitignore            # → Git config file to ignore files and directories.
 ├── app.js                # → Main app index file.
+├── bin/                  # → Directory containing bin scripts.
+    ├── app               # → Main bin script.
+├── controllers/          # → Directory containing controller files.
+    ├── Bowler.js         # → Bowler controller.
+    ├── Game.js           # → Game controller.
 ├── package.json          # → Contains project metadata and npm dependencies for node project.
 ├── README.md             # → Markdown readme file.
 ```
