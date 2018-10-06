@@ -25,6 +25,7 @@ project/                  # → Root folder for the project.
 ```
 $ yarn install
 $ yarn link
+$ chmod +x bin/app
 ```
 
 ## Commands
