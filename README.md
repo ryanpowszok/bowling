@@ -13,6 +13,7 @@ project/                  # → Root folder for the project.
 ├── controllers/          # → Directory containing controller files.
     ├── Bowler.js         # → Bowler controller.
     ├── Game.js           # → Game controller.
+├── data/                 # → Directory containing data files.
 ├── package.json          # → Contains project metadata and npm dependencies for node project.
 ├── README.md             # → Markdown readme file.
 ```
